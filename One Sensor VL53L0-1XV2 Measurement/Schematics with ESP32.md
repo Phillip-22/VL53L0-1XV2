@@ -1,5 +1,5 @@
 # Conections for one ToF VL53LX0/1XV2 Sensor
-note: the sensor supports 3.3v-5v to operate.
+**Important:** the sensor supports 3.3v-5v to operate.
 
 ## BreadBoard's schematic:
 <img src="https://github.com/user-attachments/assets/850b375e-25ec-431b-8f0e-cdc49513bf59" width="600">
