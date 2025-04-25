@@ -4,4 +4,4 @@ In this repository you can find how use VL53L0/1XV2 Tof 400C Distance Sensor wit
 remember to install the library: https://github.com/pololu/vl53l1x-arduino
 
 # Schematic's VL53L0/1XV2 Tof 400C Distance Sensor
-![191-VL53L1X-5](https://github.com/user-attachments/assets/8fa5b634-c322-4bcd-8dd3-98d377bbd6f2)
+<img src="https://github.com/user-attachments/assets/8fa5b634-c322-4bcd-8dd3-98d377bbd6f2" width="600">
